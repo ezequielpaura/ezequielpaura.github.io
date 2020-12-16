@@ -12,13 +12,13 @@ Hi! I'm Ezequiel...lorem ipsum
 
 My work
 ======
-What I know
-How I use it
+[comment]: <> What I know
+[comment]: <> How I use it
 
 My background
 ======
-Uni Konstanz, UPF, UBA
-Policy advisor, NGO, netquest, keepler
+[comment]: <> Uni Konstanz, UPF, UBA
+[comment]: <> Policy advisor, NGO, netquest, keepler
 
-Something more personal?
-======
+[comment]: <> Something more personal?
+[comment]: <> ======
