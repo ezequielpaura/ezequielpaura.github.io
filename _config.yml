@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ezequiel Paura / Personal Site"
+title                    : "Ezequiel Paura"
 title_separator          : "-"
 name                     : &name "Ezequiel Paura"
-description              : &description "personal description"
+description              : &description "data scientist | political scientist"
 url                      : https://ezequielpaura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ezequielpaura/ezequielpaura.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "ezequielpaura"
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ezequiel Paura"
   avatar           : "profile.png"
-  bio              : "InProgress"
-  location         : "Barcelona"
+  bio              : "Senior Data Scientist at <a style='color: black;' href='http://keepler.io'>Keepler Data Tech</a>"
+  location         : "Barcelona, ES"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=S-rzqmkAAAAJ"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7351-6580"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ezequielpaura"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
