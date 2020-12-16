@@ -56,6 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+linkedin:
+  username               : &linkedin "ezequielpaura"
 twitter:
   username               : &twitter "ezequielpaura"
 facebook:
@@ -84,7 +86,6 @@ author:
   avatar           : "profile.png"
   bio              : "Senior Data Scientist at <a style='color: black;' href='http://keepler.io'>Keepler Data Tech</a>"
   location         : "Barcelona, ES"
-  linkedin         : "https://www.linkedin.com/in/ezequielpaura/"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=S-rzqmkAAAAJ"
@@ -103,6 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
+  linkedin         : *linkedin #"https://www.linkedin.com/in/ezequielpaura/"
   orcid            : "https://orcid.org/0000-0002-7351-6580"
   pinterest        :
   soundcloud       :
