@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ezequiel...lorem ipsum
+Hi! I'm Ezequiel...this is my personal site, and it is InProgress :)
 
 My work
 ======
